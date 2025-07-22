@@ -1,0 +1,37 @@
+[
+  {
+    "StartDate": "01.01.2025",
+    "EndDate": "",
+    "GrossAmount": 22000.00,
+    "NetAmount": 18700.00,
+    "Description": "2025 Yılı"
+  },
+  {
+    "StartDate": "01.01.2024",
+    "EndDate": "30.06.2004",
+    "GrossAmount": 20002.50,
+    "NetAmount": 17002.12,
+    "Description": "2024 Yılı"
+  },
+  {
+    "StartDate": "30.06.2024",
+    "EndDate": "31.12.2004",
+    "GrossAmount": 13414.50,
+    "NetAmount": 11402.32,
+    "Description": "2023 2. Dönem"
+  },
+  {
+    "StartDate": "01.01.2023",
+    "EndDate": "30.06.2023",
+    "GrossAmount": 10008.00,
+    "NetAmount": 8506.80,
+    "Description": "2023 1. Dönem"
+  },
+  {
+    "StartDate": "01.07.2023",
+    "EndDate": "31.12.2023",
+    "GrossAmount": 6471.00,
+    "NetAmount": 5500.35,
+    "Description": "2022 Yılı"
+  }
+]
