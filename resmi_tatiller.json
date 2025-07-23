@@ -1,0 +1,112 @@
+[
+ {
+   "Id": 1,
+   "Date": "2024-01-01",
+   "Description": "Yılbaşı"
+ },
+ {
+   "Id": 2,
+   "Date": "2024-04-09",
+   "Description": "Ramazan Bayramı Arefe"
+ },
+ {
+   "Id": 4,
+   "Date": "2024-04-10",
+   "Description": "Ramazan Bayramı 1. Gün"
+ },
+ {
+   "Id": 5,
+   "Date": "2024-04-11",
+   "Description": "Ramazan Bayramı 2. Gün"
+ },
+ {
+   "Id": 6,
+   "Date": "2024-04-12",
+   "Description": "Ramazan Bayramı 3. Gün"
+ },
+ {
+   "Id": 7,
+   "Date": "2024-04-23",
+   "Description": "Ulusal Egemenlik ve Çocuk Bayramı"
+ },
+ {
+   "Id": 8,
+   "Date": "2024-05-01",
+   "Description": "Emek ve Dayanışma Günü"
+ },
+ {
+   "Id": 9,
+   "Date": "2024-05-19",
+   "Description": "Atatürk’ü Anma, Gençlik ve Spor Bayramı"
+ },
+ {
+   "Id": 10,
+   "Date": "2024-06-16",
+   "Description": "Kurban Bayramı 1. Gün"
+ },
+ {
+   "Id": 11,
+   "Date": "2024-06-17",
+   "Description": "Kurban Bayramı 2. Gün"
+ },
+ {
+   "Id": 12,
+   "Date": "2024-06-18",
+   "Description": "Kurban Bayramı 3. Gün"
+ },
+ {
+   "Id": 14,
+   "Date": "2024-04-19",
+   "Description": "Kurban Bayramı 4. Gün"
+ },
+ {
+   "Id": 15,
+   "Date": "2024-07-15",
+   "Description": "Demokrasi ve Millî Birlik Günü"
+ },
+ {
+   "Id": 16,
+   "Date": "2024-08-30",
+   "Description": "Zafer Bayramı"
+ },
+ {
+   "Id": 17,
+   "Date": "2024-10-29",
+   "Description": "Cumhuriyet Bayramı"
+ },
+ {
+   "Id": 24,
+   "Date": "2025-01-01",
+   "Description": "Yılbaşı"
+ },
+ {
+   "Id": 25,
+   "Date": "2025-03-30",
+   "Description": "Ramazan Bayramı 1. Gün"
+ },
+ {
+   "Id": 26,
+   "Date": "2025-03-31",
+   "Description": "Ramazan Bayramı 2. Gün"
+ },
+ {
+   "Id": 27,
+   "Date": "2025-04-01",
+   "Description": "Ramazan Bayramı 3. Gün"
+ },
+ {
+   "Id": 28,
+   "Date": "2025-04-23",
+   "Description": "Ulusal Egemenlik ve Çocuk Bayramı"
+ },
+ {
+   "Id": 29,
+   "Date": "2025-05-01",
+   "Description": "İşçi Bayramı"
+ },
+ {
+   "Id": 30,
+   "Date": "2025-05-19",
+   "Description": "Atatürkü Anma ve Gençlik ve Spor Bayramı"
+ }
+]
